@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Friends Status</string>
+    <string name="save_successful_message">تم الحفظ إلى المعرض!</string>
+    <string name="save_error_message">تعذر حفظ ، أعد المحاولة لاحقًا</string>
+    <string name="title_pics">لا ترى أيًا من الواتساب حاليًا عندما ترى الواتساب ، فسيظهر تلقائيًا هنا لتنزيل التطبيق أو إعادة فتحه</string>
+    <string name="title_videos">فيديو</string>
+    <string name="title_videos2">فيديو</string>
+    <string name="home_status">الصفحة الرئسية</string>
+    <string name="setting">إعدادات</string>
+    <string name="title_activity_settings">إعدادات</string>
+    <string name="pref_header_general">عام</string>
+    <string name="pref_title_social_recommendations">تمكين التواصل الاجتماعي</string>
+    <string name="pref_description_social_recommendations">توصيات للناس للاتصال استنادًا إلى سجل رسائلك</string>
+    <string name="pref_title_display_name">اسم العرض</string>
+    <string name="pref_title_add_friends_to_messages">أضف أصدقاء للرسائل</string>
+    <string name="pref_default_display_name">جون</string>
+    <string name="pref_header_data_sync">مزامنة البيانات</string>
+    <string name="pref_title_sync_frequency">"ترامن "</string>
+    <string name="pref_title_system_sync_settings">مزامنة النظام</string>
+    <string name="pref_header_notifications">إشعارات</string>
+    <string name="pref_title_new_message_notifications">إشعار برسالة جديدة</string>
+    <string name="pref_title_ringtone">نغمة</string>
+    <string name="pref_ringtone_silent">صامت</string>
+    <string name="pref_title_vibrate">اهتزاز</string>
+    <string name="hello_blank_fragment">مرجبا</string>
+    <string name="Privacy_Policy">سياسة الخصوصية</string>
+    <string name="show_status">من فضلك إذا لم تظهر حالة الواتساب هنا. أغلق التطبيق وافتحه مرة أخرى</string>
+    <string name="text_image">صورة</string>
+    <string name="text_vedio">فيديو</string>
+    <string name="titel_permission">إذن مطلوب</string>
+    <string name="message_permission">هذا الإذن مطلوب لتحميل حالة الواتساب لديك</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">غير موافق</string>
+    <string name="error_permission">" أنت بحاجة إلى إذن ..!"</string>
+    <string name="permission_denied">طلب الاذن مرفوض</string>
+    <string name="permission_granted">تم تأمين التصريح</string>
+    <string name="enable_dark">تمكين وضع الظلام</string>
+    <string name="enable_night">تمكين الوضع النهاري</string>
+    <string name="change_mode">تغير الوضع</string>
+</resources>
